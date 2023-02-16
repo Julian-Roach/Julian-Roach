@@ -4,7 +4,7 @@ I came to GitHub to learn more about coding, \
 and I plan to make a library but also a 2D game. 📚🎮
 
 Currently, I live in Germany, but I'm Polish. 🇵🇱 🇩🇪 \
-I am 16 years old and I love mathematics.
+I am 17 years old and I love mathematics.
 
 If you want to help me creating our own little roach-verse, \
 here's my E-mail: julianroach.dev.business@gmail.com 💸💸💸
